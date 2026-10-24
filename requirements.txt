@@ -1,0 +1,7 @@
+yfinance>=1.4
+pandas
+requests
+curl_cffi
+matplotlib
+mplfinance
+openpyxl
